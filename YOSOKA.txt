@@ -1,0 +1,55 @@
+──────────────────────
+TUTOR BIAR GAK EROR !!
+- LU DONLOD SC NYA
+- KLO UDH D DONLOD , LU INSTALL GITHUB MODULENYA YANG WAKTU ITU
+- ABS ITU LU INSTALL DRI INI
+
+──────────────────────
+- pkg update && pkg upgrade
+- pkg install ffmpeg
+- pkg install nodejs
+- pkg install libwebp
+- pkg install imagemagick
+- cd /sdcard
+- cd YosokaBotzV3
+- git clone https://github.com/KurrXd/node_modules
+- node .
+──────────────────────
+
+( KALO UDH KAYA GITU !! TINGGL SCAN 🧑‍💻 )
+
+
+MINIMAL JANGGAN D RECODE NGASAL !! EROR ?
+PASTI PADA CHAT GW 🧑‍💻😈 
+
+REDIT YANG PENTING AJA
+- config.js untuk owner
+- kurr.js cari yang udh gw kasih tanda 
+
+- OPEN AZURE -
+https://telegra.ph/OPEN-AZURE-FT--AS-10-05
+
+- OPEN SMTP -
+https://telegra.ph/SMTP-TRUSTED-10-05
+
+- GRUB TESTI TELE -
+https://t.me/testiyosoka
+
+- GRUB AZURE , VPS , DLL TELE -
+https://t.me/grubrdpyos
+
+
+──────────────────────
+
+BANTU SUPORT 🤗
+
+╭──────────────[ CONTAC ]───────────────❒
+├> Number : 085891634201 / 088297258362
+├> YT : Yosoka X Carissa
+├> Owner : Yosoka Nesia
+├> Recode Script : YosokaNesia
+├> Script Ori : Yosoka
+├> gmail : yosokaxcarrisa@my.id
+├> domain : yosokaxcarrisa.my.id
+├> Versi Script : V3 MD - BAILEYS
+└────────────────────────────────────❒
