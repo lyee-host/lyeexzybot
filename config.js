@@ -1,5 +1,5 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By Lyeexzy Host.
 */
 
 const fs = require('fs')
@@ -16,9 +16,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895330146373','1 606 404-7902']
-global.ownernomer = "6285719123464"
-global.premium = ['6285891634201']
+global.owner = ['62895330146373','6289520121054']
+global.ownernomer = "62895330146373"
+global.premium = ['62895330146373']
 global.packname = 'YosokaNesia'
 global.author = 'MARGA 19'
 global.sessionName = 'session'
